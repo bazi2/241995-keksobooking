@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Татьяна Кудрявцева](https://up.htmlacademy.ru/javascript/14/user/241995).
-* Наставник: `Неизвестно`.
+* Наставник: [Арсений Ильяшов](https://up.htmlacademy.ru/javascript/14/user/40943).
 
 ---
 
